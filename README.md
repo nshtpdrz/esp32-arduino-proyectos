@@ -31,6 +31,12 @@ Monitor de nivel de agua de un tinaco por electrodos (5 niveles, filtro por moda
 ## Tamagotchi
 Mascota virtual en OLED con tres botones, minijuegos, evolución según cuidados y partida guardada en EEPROM. Botones en GPIO 12/13/14, buzzer en 33, OLED SSD1306 por I²C. Librerías: Adafruit SSD1306 y GFX.
 
+![Tamagotchi en protoboard](docs/img/tamagotchi-1.jpg)
+![Estadísticas en pantalla](docs/img/tamagotchi-3.jpg)
+![Menú en la OLED](docs/img/tamagotchi-2.jpg)
+
+[Video: navegación de menús con los botones](docs/tamagotchi-demo.mp4)
+
 ## Fundamentos Wi-Fi
 Medición de RSSI en el campus, LED controlado desde el navegador, 6 LEDs con slider web y LED por Bluetooth serie. Copia `secrets.example.h` como `secrets.h` en cada carpeta.
 
